@@ -16,7 +16,10 @@
    id="svg2"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="Macbook__ipad__iphone.svg"
-   style="enable-background:new">
+   style="enable-background:new"
+   inkscape:export-filename="/home/daniel/Dropbox/ProyectoMapa/Mapa/Desing/prueba/Macbook__ipad__iphone.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata39">
     <rdf:RDF>
@@ -43,12 +46,12 @@
      id="namedview37"
      showgrid="false"
      inkscape:zoom="0.72050791"
-     inkscape:cx="-102.99935"
-     inkscape:cy="507.95069"
+     inkscape:cx="116.002"
+     inkscape:cy="348.58178"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer15"
+     inkscape:current-layer="layer16"
      showguides="false">
     <sodipodi:guide
        position="0,0"
@@ -163,15 +166,6 @@
     <filter
        color-interpolation-filters="sRGB"
        inkscape:collect="always"
-       id="filter4986-5-7">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="4.3357123"
-         id="feGaussianBlur4988-1-75" />
-    </filter>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
        id="filter4986-5-7-3">
       <feGaussianBlur
          inkscape:collect="always"
@@ -200,7 +194,7 @@
          inkscape:export-xdpi="90"
          inkscape:export-ydpi="90" />
       <rect
-         style="fill:url(#pattern5633);fill-opacity:1.0;stroke:#7a7a7a;stroke-width:1.00010788000000006;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#ffffff;fill-opacity:0.95588237;stroke:#7a7a7a;stroke-width:1.00010784000000008;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          width="112.9375"
          height="200.09375"
          x="8.5"
@@ -464,6 +458,115 @@
     </g>
   </g>
   <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="MODO_TEXTO"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b2b2b;fill-opacity:0.95588235;stroke:none;display:inline;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
+       x="131.5407"
+       y="319.46631"
+       id="text5751-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5753-6"
+         x="131.5407"
+         y="319.46631">ingenieria de software</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b2b2b;fill-opacity:0.95588235;stroke:none;display:inline;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
+       x="287.89713"
+       y="287.72009"
+       id="text5756-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5758-3"
+         x="287.89713"
+         y="287.72009">X 18</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b2b2b;fill-opacity:0.95588235;stroke:none;enable-background:new;font-family:Sans"
+       x="98.031715"
+       y="267.27112"
+       id="text6184"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6186"
+         x="98.031715"
+         y="267.27112">11:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b2b2b;fill-opacity:0.95588235;stroke:none;enable-background:new;font-family:Sans"
+       x="99.789528"
+       y="394.85318"
+       id="text6188"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6190"
+         x="99.789528"
+         y="394.85318">01:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b2b2b;fill-opacity:0.95588235;stroke:none;enable-background:new;font-family:Sans"
+       x="99.789528"
+       y="509.67709"
+       id="text6192"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan6194"
+         x="99.789528"
+         y="509.67709">03:00</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b2b2b;fill-opacity:0.95588235;stroke:none;display:inline;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
+       x="287.819"
+       y="426.74872"
+       id="text5756-8-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5758-3-3"
+         x="287.819"
+         y="426.74872">X 20</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b2b2b;fill-opacity:0.95588235;stroke:none;display:inline;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
+       x="221.21648"
+       y="451.62515"
+       id="text5751-8-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5753-6-8"
+         x="221.21648"
+         y="451.62515">Base de datos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#2b2b2b;fill-opacity:0.95588235;stroke:none;display:inline;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
+       x="288.73697"
+       y="530.77716"
+       id="text5756-8-6-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5758-3-3-2"
+         x="288.73697"
+         y="530.77716">X 11</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#2b2b2b;fill-opacity:0.95588235;stroke:none;display:inline;enable-background:new;font-family:Sans;-inkscape-font-specification:Sans"
+       x="376.23697"
+       y="570.37457"
+       id="text5751-8-6-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5753-6-8-0"
+         x="383.24088"
+         y="570.37457">Programacion para </tspan><tspan
+         sodipodi:role="line"
+         x="376.23697"
+         y="597.87457"
+         id="tspan6367">internet</tspan></text>
+  </g>
+  <g
      id="Page-1"
      sketch:type="MSPage"
      style="fill:none;stroke:none"
@@ -472,7 +575,7 @@
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="Puntero"
-     style="display:inline">
+     style="display:none">
     <path
        style="fill:#e74c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new"
        d="m 673.34428,663.13232 c 0,13.87853 -11.25076,56.83624 -25.12929,56.83624 -13.87853,0 -25.12929,-42.95771 -25.12929,-56.83624 0,-13.87852 11.25076,-25.12929 25.12929,-25.12929 13.87853,0 25.12929,11.25077 25.12929,25.12929 z"
